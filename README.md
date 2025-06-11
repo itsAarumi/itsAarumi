@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
 
-![ᴧᴧʀᴜᴍɪ_ʙᴏᴛs](https://github-stats-alpha.vercel.app/api?username=itsAarumi "itsAarumi")
+![Aarumi Bots](https://github-stats-alpha.vercel.app/api?username=itsAarumi "itsAarumi")
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,11 +33,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-<summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></summary>
+<summary><b>sᴜᴘᴘᴏᴜʀᴛ</b></summary>
 <a href="https://t.me/AarumiChat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
+<summary><b>ᴄᴏɴᴛᴧᴄᴛ ᴍᴇ</b></b></summary>
 <a href="https://t.me/Swagger_Soul"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

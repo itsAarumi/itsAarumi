@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+ᴧᴧʀᴜᴍɪ+ʙᴏᴛ's🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>ᴧᴧʀᴜᴍɪ ʙᴏᴛ's</b></h1>
-<p align="center"><a href="https://t.me/Swagger_Soul"><img src="https://files.catbox.moe/n3dh8g.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Swagger_Soul"><img src="https://files.catbox.moe/fzctyx.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
 
